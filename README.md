@@ -6,7 +6,7 @@ This is a React Native project created using Expo CLI. The task was to modify th
 
 **Description:**
 
-In this project, I modified the `App.js` file to change the background color to aqua, display the text "My name is MuheebN", increase the font size to 24, and make the name "MuheebN" bold.
+In this project, I modified the `App.js` file to change the background color to aqua, display the text "My name is Muheeb Nuaku", increase the font size to 24, and make the name "Muheeb Nuaku" bold.
 
 **Student ID:**
 11340961
